@@ -1,0 +1,6 @@
+{
+  "parent": "examplemod:block/template_halo",
+  "textures": {
+    "top": "examplemod:block/halo"
+  }
+}
